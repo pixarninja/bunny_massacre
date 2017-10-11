@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_a770ff3d32d0985e48d8af2e237ba55cc1056dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_0e40ab0476a537ac87036070e6467e21df67ac85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_3b301160549c8daeb2be771c448f85124dc227cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_964de33c035589e5ffc42c6571ba0229bc5ec6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_f6e339b54c7bd4c1411007c834d635bc25b8b074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ad3e992904a63289dc73868e428d8f11f4855576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_b8e6bbbc8f43e56488fbbe474903c9bdd62c3fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_14ecaedaf9b59d21208b9edd5941405b5abf21d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a561108732e61ce6348cf0fbff566d1fdf8d704a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8059b15988a67cbbbae32e4fac7e580023d8cf00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_d719fff7c03501b426e085bcf6c883f95f866253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_9377b1cd980673ecb6db55d6bf2826630ff2c420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_0ef3602b1089ba63802f6511669887fce1097804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_eaa69ed26402a7903f4ce4f0f55df6e3315e952f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_576504477c43cd5269c9e6f595841d857a8d5afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_d57b867c677049886c0d2b2c3e82d98b1689962d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_06069799ef0d7ef5f9671b8c8832d0653754e53e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_044aae69d8eaeba6a589725db89460a140fc81e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_5df5b46436a921ea65ca355afe8d22e61cf0b9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_9e05e29b02f3751e90a0afa56da8f5c35f2c1962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_71a587f2ba97560df4fb8b9029ab17ce718078fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_0fe595ec7b05b84bfaebdedc09d21faebb35397b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_001729cf3aaebbad89f369d5ff6dbe211c8c427c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_8bd9332d1456aa19b00af65b7dba6c14abb942d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_7bdf1da9af66b684a7446e715d800c2767275131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_a8e82946f1b9827ef1ec87c4d0b36c1c15530b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_667925a588c4ea8ab80446a0b010d5a19436f2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Wesley\Git\gamedev_project\gamedev_2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_86fabb0ab8934ae4c6692b2ed45c24b06bb734b3.jar" />
+    </item>
+
+</items>

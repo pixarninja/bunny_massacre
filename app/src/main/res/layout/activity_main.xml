@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|top"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:weightSum="1"
+    tools:context="com.pixarninja.bunny_massacre.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/middleLayout"
+        android:orientation="horizontal"
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1" >
+
+        <com.pixarninja.bunny_massacre.SpriteView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:id="@+id/spriteView" >
+        </com.pixarninja.bunny_massacre.SpriteView>
+
+    </LinearLayout>
+
+</LinearLayout>
